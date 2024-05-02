@@ -1,4 +1,4 @@
-hey! welcome to the code repo for the game of chess!!!
+Hey,welcome to the code repo for the game of chess!!!
 
 To run the app make sure you have the following dedpendencies met:
 
