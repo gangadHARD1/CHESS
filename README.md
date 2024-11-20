@@ -1,6 +1,6 @@
 Hey,welcome to the code repo for the game of chess!!!
-<img width="1130" alt="image" src="<img width="953" alt="image" src="https://github.com/user-attachments/assets/7fbc1927-425f-4528-b66e-82eede3443d5">
-">
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/7fbc1927-425f-4528-b66e-82eede3443d5">
+
 
 To run the app make sure you have the following dedpendencies met:
 
